@@ -10,6 +10,7 @@ Place Order: Users can place orders for delivery after adding items to their car
 Order Tracking: Users can track the status of their order, including order confirmation, preparation, and delivery.
 User Authentication: Basic authentication system implemented for user accounts.
 Technologies Used
+Shimmer Ui and Accordion Ui were used to provide good user expereince
 React.js: The entire frontend is built using React.js library to create reusable UI components and manage state efficiently.
 Tailwind CSS: Tailwind CSS is used for styling, providing utility classes for rapid UI development and customization.
 Swiggy API: Restaurant data is fetched from the Swiggy API to provide real-time information about available restaurants and menus.
